@@ -1,0 +1,17 @@
+{
+  "station_id": 93,
+  "station_name": "Grünstadt-Asselheim",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 9.7,
+      "temp_20cm_C": 9.7,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 34,
+      "luftfeuchte_prozent": 100,
+      "wind_ms": 0.9
+    }
+  ]
+}

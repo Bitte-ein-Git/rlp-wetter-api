@@ -1,0 +1,17 @@
+{
+  "station_id": 67,
+  "station_name": "Neumühle",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 13.5,
+      "temp_20cm_C": 13,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 23,
+      "luftfeuchte_prozent": 82,
+      "wind_ms": 2.2
+    }
+  ]
+}

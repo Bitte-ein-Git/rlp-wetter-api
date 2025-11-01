@@ -1,0 +1,17 @@
+{
+  "station_id": 145,
+  "station_name": "Rheingönheim",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 10,
+      "temp_20cm_C": 9.8,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 99,
+      "luftfeuchte_prozent": 100,
+      "wind_ms": 0.9
+    }
+  ]
+}

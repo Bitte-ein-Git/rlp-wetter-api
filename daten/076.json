@@ -1,0 +1,17 @@
+{
+  "station_id": 76,
+  "station_name": "Gundheim",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 9.8,
+      "temp_20cm_C": 9.6,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 83,
+      "luftfeuchte_prozent": 100,
+      "wind_ms": 1.9
+    }
+  ]
+}

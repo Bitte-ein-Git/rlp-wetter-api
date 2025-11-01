@@ -1,0 +1,17 @@
+{
+  "station_id": 24,
+  "station_name": "Martinshöhe",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 12.9,
+      "temp_20cm_C": 12.5,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 46,
+      "luftfeuchte_prozent": 89,
+      "wind_ms": 3.5
+    }
+  ]
+}

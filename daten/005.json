@@ -1,0 +1,17 @@
+{
+  "station_id": 5,
+  "station_name": "Esch",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 14.2,
+      "temp_20cm_C": 13,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 45,
+      "luftfeuchte_prozent": 83,
+      "wind_ms": 2.7
+    }
+  ]
+}

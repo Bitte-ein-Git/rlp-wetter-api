@@ -1,0 +1,17 @@
+{
+  "station_id": 84,
+  "station_name": "Piesport",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 7.2,
+      "temp_20cm_C": 7.5,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 100,
+      "luftfeuchte_prozent": 100,
+      "wind_ms": 0.7
+    }
+  ]
+}

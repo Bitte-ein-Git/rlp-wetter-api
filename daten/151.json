@@ -1,0 +1,17 @@
+{
+  "station_id": 151,
+  "station_name": "Klüsserath",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 13.6,
+      "temp_20cm_C": 12.9,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 13,
+      "luftfeuchte_prozent": 89,
+      "wind_ms": 1.9
+    }
+  ]
+}

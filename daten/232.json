@@ -1,0 +1,17 @@
+{
+  "station_id": 232,
+  "station_name": "Kirchweiler",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 11.2,
+      "temp_20cm_C": null,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": null,
+      "luftfeuchte_prozent": 100,
+      "wind_ms": 1.7
+    }
+  ]
+}

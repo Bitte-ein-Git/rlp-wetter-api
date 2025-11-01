@@ -1,0 +1,17 @@
+{
+  "station_id": 56,
+  "station_name": "Hersdorf",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 10.4,
+      "temp_20cm_C": null,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": null,
+      "luftfeuchte_prozent": 97,
+      "wind_ms": 2.7
+    }
+  ]
+}
