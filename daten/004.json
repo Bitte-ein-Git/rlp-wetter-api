@@ -1,17 +1,17 @@
 {
   "station_id": 4,
   "station_name": "Schifferstadt",
-  "station_height": null,
+  "station_height": 110,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 8.6,
-      "temp_20cm_C": 8.7,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 100,
+      "zeit": "09:30",
+      "temp_2m_C": 10,
+      "temp_20cm_C": 10.2,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 2.1
+      "wind_ms": 1.3,
+      "blattnaesse_prozent": 100,
+      "niederschlag_mm": 0
     }
   ]
 }

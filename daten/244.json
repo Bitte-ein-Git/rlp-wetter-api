@@ -1,17 +1,17 @@
 {
   "station_id": 244,
   "station_name": "Laacher See",
-  "station_height": null,
+  "station_height": 287,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 9.9,
-      "temp_20cm_C": 9.8,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 100,
+      "zeit": "09:20",
+      "temp_2m_C": 10.4,
+      "temp_20cm_C": 10.5,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 0.5
+      "wind_ms": 1.1,
+      "blattnaesse_prozent": 100,
+      "niederschlag_mm": 0
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "station_id": 25,
   "station_name": "Wahlbach",
-  "station_height": null,
+  "station_height": 418,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 12.8,
-      "temp_20cm_C": 12.3,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 68,
-      "luftfeuchte_prozent": 85,
-      "wind_ms": 3
+      "zeit": "09:35",
+      "temp_2m_C": 13.4,
+      "temp_20cm_C": 13,
+      "luftfeuchte_prozent": 83,
+      "wind_ms": 4.6,
+      "blattnaesse_prozent": 58,
+      "niederschlag_mm": 0
     }
   ]
 }

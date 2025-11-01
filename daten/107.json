@@ -1,17 +1,17 @@
 {
   "station_id": 107,
   "station_name": "Wiesweiler",
-  "station_height": null,
+  "station_height": 180,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 5.5,
-      "temp_20cm_C": 3.2,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 100,
+      "zeit": "09:45",
+      "temp_2m_C": 7.2,
+      "temp_20cm_C": 4.8,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 0.5
+      "wind_ms": 0.6,
+      "blattnaesse_prozent": 56,
+      "niederschlag_mm": 0
     }
   ]
 }

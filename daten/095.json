@@ -1,17 +1,17 @@
 {
   "station_id": 95,
   "station_name": "Bad Dürkheim",
-  "station_height": null,
+  "station_height": 140,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 9.5,
-      "temp_20cm_C": 9.4,
-      "niederschlag_mm": 0,
+      "zeit": "09:30",
+      "temp_2m_C": 10.2,
+      "temp_20cm_C": 10.3,
+      "luftfeuchte_prozent": 99,
+      "wind_ms": 2.2,
       "blattnaesse_prozent": 100,
-      "luftfeuchte_prozent": 100,
-      "wind_ms": 1.9
+      "niederschlag_mm": 0
     }
   ]
 }

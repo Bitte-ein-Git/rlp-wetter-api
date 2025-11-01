@@ -1,17 +1,17 @@
 {
   "station_id": 86,
   "station_name": "Bad Neuenahr",
-  "station_height": null,
+  "station_height": 121,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 12.9,
-      "temp_20cm_C": 12.6,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 51,
+      "zeit": "09:30",
+      "temp_2m_C": 13.9,
+      "temp_20cm_C": 13.5,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 4.1
+      "wind_ms": 3.8,
+      "blattnaesse_prozent": 37,
+      "niederschlag_mm": 0
     }
   ]
 }

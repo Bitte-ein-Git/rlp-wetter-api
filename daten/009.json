@@ -1,17 +1,17 @@
 {
   "station_id": 9,
   "station_name": "Kettenheim",
-  "station_height": null,
+  "station_height": 224,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 10.4,
-      "temp_20cm_C": 10.1,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 73,
+      "zeit": "09:45",
+      "temp_2m_C": 12.5,
+      "temp_20cm_C": 12.5,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 0.6
+      "wind_ms": 1.4,
+      "blattnaesse_prozent": 30,
+      "niederschlag_mm": 0
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "station_id": 129,
   "station_name": "Wormeldingen",
-  "station_height": null,
+  "station_height": 245,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 12,
-      "temp_20cm_C": 11.8,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 100,
+      "zeit": "09:35",
+      "temp_2m_C": 12.8,
+      "temp_20cm_C": 12.6,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 1.4
+      "wind_ms": 1.9,
+      "blattnaesse_prozent": 100,
+      "niederschlag_mm": 0
     }
   ]
 }

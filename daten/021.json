@@ -1,17 +1,17 @@
 {
   "station_id": 21,
   "station_name": "Dreis-Brück",
-  "station_height": null,
+  "station_height": 526,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 11.5,
-      "temp_20cm_C": 10.7,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 100,
+      "zeit": "09:30",
+      "temp_2m_C": 12.4,
+      "temp_20cm_C": 11.9,
       "luftfeuchte_prozent": 99,
-      "wind_ms": 1.7
+      "wind_ms": 3.2,
+      "blattnaesse_prozent": 100,
+      "niederschlag_mm": 0
     }
   ]
 }

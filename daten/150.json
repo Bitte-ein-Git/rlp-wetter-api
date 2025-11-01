@@ -1,17 +1,17 @@
 {
   "station_id": 150,
   "station_name": "Laumersheim",
-  "station_height": null,
+  "station_height": 161,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 9.4,
-      "temp_20cm_C": 9.1,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 93,
+      "zeit": "09:30",
+      "temp_2m_C": 10.6,
+      "temp_20cm_C": 10.5,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 1.7
+      "wind_ms": 1.9,
+      "blattnaesse_prozent": 52,
+      "niederschlag_mm": 0
     }
   ]
 }

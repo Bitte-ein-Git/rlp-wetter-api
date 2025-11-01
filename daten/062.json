@@ -1,17 +1,17 @@
 {
   "station_id": 62,
   "station_name": "Wachenheim",
-  "station_height": null,
+  "station_height": 152,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 9.7,
-      "temp_20cm_C": 9.6,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 100,
+      "zeit": "09:40",
+      "temp_2m_C": 10.2,
+      "temp_20cm_C": 10.4,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 2
+      "wind_ms": 2.2,
+      "blattnaesse_prozent": 96,
+      "niederschlag_mm": 0
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "station_id": 147,
   "station_name": "Frankenthal- Eppstein",
-  "station_height": null,
+  "station_height": 95,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 9.2,
-      "temp_20cm_C": 9.3,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 91,
-      "luftfeuchte_prozent": 96,
-      "wind_ms": 1.5
+      "zeit": "09:30",
+      "temp_2m_C": 10.2,
+      "temp_20cm_C": 10.5,
+      "luftfeuchte_prozent": 93,
+      "wind_ms": 2,
+      "blattnaesse_prozent": 61,
+      "niederschlag_mm": 0
     }
   ]
 }

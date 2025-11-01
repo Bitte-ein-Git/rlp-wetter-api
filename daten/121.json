@@ -1,17 +1,17 @@
 {
   "station_id": 121,
   "station_name": "Flomborn",
-  "station_height": null,
+  "station_height": 251,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 10.2,
-      "temp_20cm_C": 10.3,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 76,
-      "luftfeuchte_prozent": 94,
-      "wind_ms": 1.4
+      "zeit": "09:40",
+      "temp_2m_C": 10.9,
+      "temp_20cm_C": 11.4,
+      "luftfeuchte_prozent": 92,
+      "wind_ms": 1.5,
+      "blattnaesse_prozent": 36,
+      "niederschlag_mm": 0
     }
   ]
 }

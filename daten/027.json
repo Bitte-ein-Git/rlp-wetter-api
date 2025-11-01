@@ -1,17 +1,17 @@
 {
   "station_id": 27,
   "station_name": "Merzkirchen",
-  "station_height": null,
+  "station_height": 369,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 12.5,
-      "temp_20cm_C": 12,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 67,
-      "luftfeuchte_prozent": 98,
-      "wind_ms": 3.1
+      "zeit": "09:35",
+      "temp_2m_C": 13.3,
+      "temp_20cm_C": 12.7,
+      "luftfeuchte_prozent": 96,
+      "wind_ms": 4.2,
+      "blattnaesse_prozent": 61,
+      "niederschlag_mm": 0
     }
   ]
 }

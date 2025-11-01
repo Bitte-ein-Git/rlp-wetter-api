@@ -1,17 +1,17 @@
 {
   "station_id": 37,
   "station_name": "Wiersdorf",
-  "station_height": null,
+  "station_height": 325,
   "messwerte": [
     {
       "datum": "01.11.2025",
-      "zeit": "09:00",
-      "temp_2m_C": 10.1,
-      "temp_20cm_C": 10.4,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 100,
+      "zeit": "09:35",
+      "temp_2m_C": 11.2,
+      "temp_20cm_C": 11.6,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 0.4
+      "wind_ms": 1,
+      "blattnaesse_prozent": 100,
+      "niederschlag_mm": 0
     }
   ]
 }
