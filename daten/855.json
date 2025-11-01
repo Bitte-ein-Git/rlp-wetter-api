@@ -1,0 +1,17 @@
+{
+  "station_id": 855,
+  "station_name": "Trier-Zewen",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "10:00",
+      "temp_2m_C": 10.1,
+      "temp_20cm_C": null,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": null,
+      "luftfeuchte_prozent": 97,
+      "wind_ms": null
+    }
+  ]
+}

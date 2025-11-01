@@ -1,0 +1,17 @@
+{
+  "station_id": 821,
+  "station_name": "Hümmerich",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "10:00",
+      "temp_2m_C": 12.5,
+      "temp_20cm_C": null,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": null,
+      "luftfeuchte_prozent": 87,
+      "wind_ms": null
+    }
+  ]
+}

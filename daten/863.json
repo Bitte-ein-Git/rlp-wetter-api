@@ -1,0 +1,17 @@
+{
+  "station_id": 863,
+  "station_name": "Worms (DWD)",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "10:00",
+      "temp_2m_C": 10.7,
+      "temp_20cm_C": null,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": null,
+      "luftfeuchte_prozent": 91,
+      "wind_ms": null
+    }
+  ]
+}
