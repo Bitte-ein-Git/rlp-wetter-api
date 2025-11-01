@@ -1,0 +1,36 @@
+name: Fetch RLP Wetter Data (Hourly Safe)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install axios node-html-parser
+        working-directory: ./.github/scripts
+
+      - name: Fetch hourly safe weather data
+        run: node ./.github/scripts/fetch-safe-data.js
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add daten/
+          git commit -m "🌦️ RLP-Wetter [bot]" || echo "No changes to commit"
+          git push
