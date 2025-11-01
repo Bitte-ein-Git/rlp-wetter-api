@@ -1,0 +1,17 @@
+{
+  "station_id": 860,
+  "station_name": "Weinbiet",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "01.11.2025",
+      "zeit": "09:00",
+      "temp_2m_C": 14.5,
+      "temp_20cm_C": null,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": null,
+      "luftfeuchte_prozent": 68,
+      "wind_ms": null
+    }
+  ]
+}
