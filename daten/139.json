@@ -7,11 +7,11 @@
       "datum": "05.11.2025",
       "zeit": "02:00",
       "temp_2m_C": 10.5,
-      "temp_20cm_C": 8.5,
-      "luftfeuchte_prozent": 62,
-      "wind_ms": 1.7,
+      "temp_20cm_C": 8.2,
+      "niederschlag_mm": 0,
       "blattnaesse_prozent": 9,
-      "niederschlag_mm": 0
+      "luftfeuchte_prozent": 61,
+      "wind_ms": 1.4
     }
   ]
 }
