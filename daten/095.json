@@ -5,11 +5,11 @@
   "messwerte": [
     {
       "datum": "08.11.2025",
-      "zeit": "20:10",
+      "zeit": "20:40",
       "temp_2m_C": 5.2,
-      "temp_20cm_C": 5.2,
+      "temp_20cm_C": 5.3,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 1.7,
+      "wind_ms": 1.4,
       "blattnaesse_prozent": 100,
       "niederschlag_mm": 0
     }
