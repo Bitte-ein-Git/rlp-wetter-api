@@ -5,8 +5,8 @@
   "messwerte": [
     {
       "datum": "13.11.2025",
-      "zeit": "11:00",
-      "temp_2m_C": 13,
+      "zeit": "13:00",
+      "temp_2m_C": 13.6,
       "temp_20cm_C": null,
       "niederschlag_mm": null,
       "blattnaesse_prozent": null,
