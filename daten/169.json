@@ -4,13 +4,13 @@
   "station_height": 390,
   "messwerte": [
     {
-      "datum": "13.11.2025",
-      "zeit": "22:30",
-      "temp_2m_C": 11.7,
-      "temp_20cm_C": 10.3,
-      "luftfeuchte_prozent": 73,
-      "wind_ms": 1.2,
-      "blattnaesse_prozent": 16,
+      "datum": "14.11.2025",
+      "zeit": "01:50",
+      "temp_2m_C": 12.2,
+      "temp_20cm_C": 11,
+      "luftfeuchte_prozent": 65,
+      "wind_ms": 1.4,
+      "blattnaesse_prozent": 13,
       "niederschlag_mm": 0
     }
   ]
