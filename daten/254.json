@@ -4,9 +4,9 @@
   "station_height": null,
   "messwerte": [
     {
-      "datum": "18.11.2025",
-      "zeit": "23:00",
-      "temp_2m_C": 2.1,
+      "datum": "19.11.2025",
+      "zeit": "01:00",
+      "temp_2m_C": 1.8,
       "temp_20cm_C": null,
       "niederschlag_mm": 0,
       "blattnaesse_prozent": null,
