@@ -1,6 +1,6 @@
 ## Wetterdaten Rheinland-Pfalz
 
-Dieser API Endpunkt dient als Proxy und Parser, um die **aktuellsten** 5-Minuten-Wetterdaten von einer spezifischen Messstation der Agrarmeteorologie Rheinland-Pfalz abzurufen und im JSON-Format bereitzustellen.
+Dieser API Endpunkt dient als Proxy und Parser, um die möglichst **aktuellsten** 5-Minuten-Wetterdaten von einer spezifischen Messstation der [Agrarmeteorologie Rheinland-Pfalz](https://wetter.rlp.de) abzurufen und im JSON-Format bereitzustellen.
 
 ## Benutzung
 
@@ -349,6 +349,9 @@ https://api.heyfordy.de/rlp-wetter?sid=<STATION_ID>
 </details>
 
 ---
+
+## Bekannte Probleme
+Leider arbeitet der Scraper für die "5-Minuten-Wetterdaten" sehr langsam und erreicht alle paar Sekunden die Rate Limits, daher kann es manchmal zu Timeouts kommen, bevor alle Daten jeder einzelnen Station abgerufen werden konnten. Als Fallback werden die stündlichen Werte aller Station über einen einzelnen Request abgefragt, dabei wird idR. kein Rate Limit erreicht. Das ist allerdings für die "5-Minuten-Wetterdaten" nicht umsetzbar.
 
 ## Datenquelle
 
