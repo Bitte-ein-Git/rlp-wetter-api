@@ -6,12 +6,12 @@
     {
       "datum": "20.11.2025",
       "zeit": "02:00",
-      "temp_2m_C": 2.9,
+      "temp_2m_C": 3,
       "temp_20cm_C": 3.2,
-      "luftfeuchte_prozent": 96,
-      "wind_ms": 1.9,
-      "blattnaesse_prozent": 90,
-      "niederschlag_mm": 0
+      "niederschlag_mm": 0.2,
+      "blattnaesse_prozent": 80,
+      "luftfeuchte_prozent": 95,
+      "wind_ms": 2
     }
   ]
 }
