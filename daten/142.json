@@ -7,11 +7,11 @@
       "datum": "22.11.2025",
       "zeit": "02:00",
       "temp_2m_C": -2.8,
-      "temp_20cm_C": -3.7,
-      "luftfeuchte_prozent": 88,
-      "wind_ms": 1.6,
+      "temp_20cm_C": -3.8,
+      "niederschlag_mm": 0,
       "blattnaesse_prozent": 4,
-      "niederschlag_mm": 0
+      "luftfeuchte_prozent": 88,
+      "wind_ms": 1.6
     }
   ]
 }
