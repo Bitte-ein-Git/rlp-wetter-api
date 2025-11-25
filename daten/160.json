@@ -6,12 +6,12 @@
     {
       "datum": "25.11.2025",
       "zeit": "14:00",
-      "temp_2m_C": 7,
+      "temp_2m_C": 6.8,
       "temp_20cm_C": 7.1,
-      "luftfeuchte_prozent": 94,
-      "wind_ms": 0.3,
-      "blattnaesse_prozent": 71,
-      "niederschlag_mm": 0
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 75,
+      "luftfeuchte_prozent": 95,
+      "wind_ms": 0.8
     }
   ]
 }
