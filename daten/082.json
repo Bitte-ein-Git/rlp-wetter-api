@@ -7,11 +7,11 @@
       "datum": "27.11.2025",
       "zeit": "02:00",
       "temp_2m_C": 2.7,
-      "temp_20cm_C": 2.4,
+      "temp_20cm_C": 2.5,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 26,
       "luftfeuchte_prozent": 97,
-      "wind_ms": 0,
-      "blattnaesse_prozent": 25,
-      "niederschlag_mm": 0
+      "wind_ms": 0
     }
   ]
 }
