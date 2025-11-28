@@ -7,11 +7,11 @@
       "datum": "28.11.2025",
       "zeit": "14:00",
       "temp_2m_C": 6.4,
-      "temp_20cm_C": 6.8,
-      "luftfeuchte_prozent": 90,
-      "wind_ms": 1.5,
-      "blattnaesse_prozent": 9,
-      "niederschlag_mm": 0
+      "temp_20cm_C": 6.9,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 8,
+      "luftfeuchte_prozent": 91,
+      "wind_ms": 1.4
     }
   ]
 }
