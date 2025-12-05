@@ -5,13 +5,13 @@
   "messwerte": [
     {
       "datum": "05.12.2025",
-      "zeit": "14:10",
+      "zeit": "14:00",
       "temp_2m_C": 5.1,
-      "temp_20cm_C": 5.2,
-      "luftfeuchte_prozent": 93,
-      "wind_ms": 0.9,
-      "blattnaesse_prozent": 26,
-      "niederschlag_mm": 0
+      "temp_20cm_C": 5.4,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 25,
+      "luftfeuchte_prozent": 94,
+      "wind_ms": 0.9
     }
   ]
 }
