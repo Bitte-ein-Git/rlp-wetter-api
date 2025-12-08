@@ -7,11 +7,11 @@
       "datum": "08.12.2025",
       "zeit": "02:00",
       "temp_2m_C": 13.5,
-      "temp_20cm_C": 12.8,
-      "luftfeuchte_prozent": 94,
-      "wind_ms": 2.6,
+      "temp_20cm_C": 12.9,
+      "niederschlag_mm": 0,
       "blattnaesse_prozent": 37,
-      "niederschlag_mm": 0
+      "luftfeuchte_prozent": 94,
+      "wind_ms": 2.4
     }
   ]
 }
