@@ -6,12 +6,12 @@
     {
       "datum": "12.12.2025",
       "zeit": "14:00",
-      "temp_2m_C": 7.4,
-      "temp_20cm_C": 7.8,
+      "temp_2m_C": 7.3,
+      "temp_20cm_C": 7.7,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 2,
       "luftfeuchte_prozent": 98,
-      "wind_ms": 1.6,
-      "blattnaesse_prozent": 1,
-      "niederschlag_mm": 0
+      "wind_ms": 2.6
     }
   ]
 }
