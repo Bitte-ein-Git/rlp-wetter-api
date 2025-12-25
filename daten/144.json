@@ -7,11 +7,11 @@
       "datum": "25.12.2025",
       "zeit": "04:00",
       "temp_2m_C": -0.3,
-      "temp_20cm_C": -0.4,
+      "temp_20cm_C": -0.3,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 16,
       "luftfeuchte_prozent": 75,
-      "wind_ms": 5,
-      "blattnaesse_prozent": 17,
-      "niederschlag_mm": 0
+      "wind_ms": 4.6
     }
   ]
 }
