@@ -6,12 +6,12 @@
     {
       "datum": "05.01.2026",
       "zeit": "14:00",
-      "temp_2m_C": -2,
-      "temp_20cm_C": -1.7,
-      "luftfeuchte_prozent": 84,
-      "wind_ms": 1.5,
+      "temp_2m_C": -2.3,
+      "temp_20cm_C": -1.9,
+      "niederschlag_mm": 0,
       "blattnaesse_prozent": 5,
-      "niederschlag_mm": 0
+      "luftfeuchte_prozent": 85,
+      "wind_ms": 1.3
     }
   ]
 }
