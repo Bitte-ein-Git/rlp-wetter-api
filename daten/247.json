@@ -10,7 +10,7 @@
       "temp_20cm_C": null,
       "niederschlag_mm": 0.2,
       "blattnaesse_prozent": null,
-      "luftfeuchte_prozent": null,
+      "luftfeuchte_prozent": 93,
       "wind_ms": null
     }
   ]
