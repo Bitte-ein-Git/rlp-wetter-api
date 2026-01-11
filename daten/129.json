@@ -4,14 +4,14 @@
   "station_height": 245,
   "messwerte": [
     {
-      "datum": "11.01.2026",
-      "zeit": "23:00",
+      "datum": "12.01.2026",
+      "zeit": "00:05",
       "temp_2m_C": -0.2,
-      "temp_20cm_C": -0.5,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 40,
-      "luftfeuchte_prozent": 89,
-      "wind_ms": 3.1
+      "temp_20cm_C": -0.4,
+      "luftfeuchte_prozent": 93,
+      "wind_ms": 3,
+      "blattnaesse_prozent": 41,
+      "niederschlag_mm": 0
     }
   ]
 }
