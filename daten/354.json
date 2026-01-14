@@ -1,0 +1,17 @@
+{
+  "station_id": 354,
+  "station_name": "Mainz-Mombach",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "14.01.2026",
+      "zeit": "19:00",
+      "temp_2m_C": 8,
+      "temp_20cm_C": null,
+      "niederschlag_mm": 0.3,
+      "blattnaesse_prozent": null,
+      "luftfeuchte_prozent": 96,
+      "wind_ms": null
+    }
+  ]
+}

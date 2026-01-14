@@ -1,0 +1,17 @@
+{
+  "station_id": 365,
+  "station_name": "Dunzweiler",
+  "station_height": null,
+  "messwerte": [
+    {
+      "datum": "14.01.2026",
+      "zeit": "19:00",
+      "temp_2m_C": 7.1,
+      "temp_20cm_C": null,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": null,
+      "luftfeuchte_prozent": 83,
+      "wind_ms": null
+    }
+  ]
+}
