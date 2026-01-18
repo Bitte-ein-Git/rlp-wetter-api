@@ -7,11 +7,11 @@
       "datum": "18.01.2026",
       "zeit": "13:00",
       "temp_2m_C": 3.5,
-      "temp_20cm_C": 4,
+      "temp_20cm_C": 3.9,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 85,
       "luftfeuchte_prozent": 84,
-      "wind_ms": 1,
-      "blattnaesse_prozent": 86,
-      "niederschlag_mm": 0
+      "wind_ms": 1.2
     }
   ]
 }
