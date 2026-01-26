@@ -5,13 +5,13 @@
   "messwerte": [
     {
       "datum": "26.01.2026",
-      "zeit": "18:00",
-      "temp_2m_C": 3.3,
-      "temp_20cm_C": 3,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 28,
-      "luftfeuchte_prozent": 84,
-      "wind_ms": 1.3
+      "zeit": "20:35",
+      "temp_2m_C": 0.6,
+      "temp_20cm_C": 0.5,
+      "luftfeuchte_prozent": 100,
+      "wind_ms": 1.1,
+      "blattnaesse_prozent": 60,
+      "niederschlag_mm": 0
     }
   ]
 }
