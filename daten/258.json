@@ -4,9 +4,9 @@
   "station_height": null,
   "messwerte": [
     {
-      "datum": "29.01.2026",
-      "zeit": "22:00",
-      "temp_2m_C": 1.7,
+      "datum": "30.01.2026",
+      "zeit": "05:00",
+      "temp_2m_C": 1.2,
       "temp_20cm_C": null,
       "niederschlag_mm": 0,
       "blattnaesse_prozent": null,
