@@ -5,8 +5,8 @@
   "messwerte": [
     {
       "datum": "30.01.2026",
-      "zeit": "14:00",
-      "temp_2m_C": 2.1,
+      "zeit": "14:30",
+      "temp_2m_C": 2.2,
       "temp_20cm_C": 2.3,
       "luftfeuchte_prozent": 100,
       "wind_ms": 1.5,
