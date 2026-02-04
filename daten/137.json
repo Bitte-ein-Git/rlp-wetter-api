@@ -6,12 +6,12 @@
     {
       "datum": "04.02.2026",
       "zeit": "16:00",
-      "temp_2m_C": 3.7,
-      "temp_20cm_C": 3.9,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 34,
+      "temp_2m_C": 3.8,
+      "temp_20cm_C": 3.8,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 1.8
+      "wind_ms": 1.4,
+      "blattnaesse_prozent": 35,
+      "niederschlag_mm": 0
     }
   ]
 }
