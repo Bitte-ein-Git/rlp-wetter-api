@@ -5,8 +5,8 @@
   "messwerte": [
     {
       "datum": "06.02.2026",
-      "zeit": "04:00",
-      "temp_2m_C": -0.4,
+      "zeit": "10:00",
+      "temp_2m_C": 0,
       "temp_20cm_C": null,
       "niederschlag_mm": 0,
       "blattnaesse_prozent": null,
