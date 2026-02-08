@@ -4,13 +4,13 @@
   "station_height": null,
   "messwerte": [
     {
-      "datum": "07.02.2026",
-      "zeit": "23:00",
-      "temp_2m_C": 3.3,
+      "datum": "08.02.2026",
+      "zeit": "02:00",
+      "temp_2m_C": 2.6,
       "temp_20cm_C": null,
       "niederschlag_mm": 0,
       "blattnaesse_prozent": null,
-      "luftfeuchte_prozent": 95,
+      "luftfeuchte_prozent": 96,
       "wind_ms": null
     }
   ]
