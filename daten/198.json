@@ -6,12 +6,12 @@
     {
       "datum": "09.02.2026",
       "zeit": "15:00",
-      "temp_2m_C": null,
-      "temp_20cm_C": null,
-      "luftfeuchte_prozent": null,
-      "wind_ms": 1.2,
-      "blattnaesse_prozent": null,
-      "niederschlag_mm": null
+      "temp_2m_C": 5.3,
+      "temp_20cm_C": 5.4,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 16,
+      "luftfeuchte_prozent": 88,
+      "wind_ms": 1
     }
   ]
 }
