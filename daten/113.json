@@ -8,10 +8,10 @@
       "zeit": "16:00",
       "temp_2m_C": 8.5,
       "temp_20cm_C": 8.2,
-      "luftfeuchte_prozent": 63,
-      "wind_ms": 1.9,
+      "niederschlag_mm": 0,
       "blattnaesse_prozent": 6,
-      "niederschlag_mm": 0
+      "luftfeuchte_prozent": 63,
+      "wind_ms": 1.5
     }
   ]
 }
