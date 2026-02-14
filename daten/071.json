@@ -7,11 +7,11 @@
       "datum": "14.02.2026",
       "zeit": "22:00",
       "temp_2m_C": 0.9,
-      "temp_20cm_C": 0.7,
-      "luftfeuchte_prozent": 78,
-      "wind_ms": 3.4,
-      "blattnaesse_prozent": 63,
-      "niederschlag_mm": 0
+      "temp_20cm_C": 0.8,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 68,
+      "luftfeuchte_prozent": 81,
+      "wind_ms": 2.8
     }
   ]
 }
