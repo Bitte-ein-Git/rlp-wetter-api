@@ -6,12 +6,12 @@
     {
       "datum": "17.02.2026",
       "zeit": "10:00",
-      "temp_2m_C": 5.5,
-      "temp_20cm_C": 5.5,
-      "luftfeuchte_prozent": 88,
-      "wind_ms": 5.2,
-      "blattnaesse_prozent": 50,
-      "niederschlag_mm": 0
+      "temp_2m_C": 5,
+      "temp_20cm_C": 5,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 53,
+      "luftfeuchte_prozent": 91,
+      "wind_ms": 4.5
     }
   ]
 }
