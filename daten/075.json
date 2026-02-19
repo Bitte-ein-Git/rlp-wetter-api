@@ -7,11 +7,11 @@
       "datum": "19.02.2026",
       "zeit": "18:00",
       "temp_2m_C": 0.7,
-      "temp_20cm_C": 0.6,
+      "temp_20cm_C": 0.7,
+      "niederschlag_mm": 0.2,
+      "blattnaesse_prozent": 41,
       "luftfeuchte_prozent": 100,
-      "wind_ms": 6.1,
-      "blattnaesse_prozent": 50,
-      "niederschlag_mm": 0
+      "wind_ms": 6.3
     }
   ]
 }
