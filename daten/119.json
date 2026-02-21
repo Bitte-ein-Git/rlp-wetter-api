@@ -6,12 +6,12 @@
     {
       "datum": "21.02.2026",
       "zeit": "14:00",
-      "temp_2m_C": 9.2,
-      "temp_20cm_C": 9.4,
-      "luftfeuchte_prozent": 95,
-      "wind_ms": 1.4,
-      "blattnaesse_prozent": 81,
-      "niederschlag_mm": 0
+      "temp_2m_C": 9.1,
+      "temp_20cm_C": 9.2,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 63,
+      "luftfeuchte_prozent": 94,
+      "wind_ms": 1.7
     }
   ]
 }
