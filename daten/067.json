@@ -6,12 +6,12 @@
     {
       "datum": "01.03.2026",
       "zeit": "14:00",
-      "temp_2m_C": 11.5,
-      "temp_20cm_C": 12.3,
-      "luftfeuchte_prozent": 59,
-      "wind_ms": 2.5,
+      "temp_2m_C": 11.6,
+      "temp_20cm_C": 12.9,
+      "niederschlag_mm": 0,
       "blattnaesse_prozent": 8,
-      "niederschlag_mm": 0
+      "luftfeuchte_prozent": 57,
+      "wind_ms": 2.1
     }
   ]
 }
