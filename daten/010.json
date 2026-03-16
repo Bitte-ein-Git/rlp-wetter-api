@@ -4,14 +4,14 @@
   "station_height": 388,
   "messwerte": [
     {
-      "datum": "15.03.2026",
-      "zeit": "23:00",
-      "temp_2m_C": 1.9,
-      "temp_20cm_C": 0.4,
-      "niederschlag_mm": 0,
-      "blattnaesse_prozent": 15,
-      "luftfeuchte_prozent": 80,
-      "wind_ms": 1.7
+      "datum": "16.03.2026",
+      "zeit": "00:30",
+      "temp_2m_C": 3.1,
+      "temp_20cm_C": 2.2,
+      "luftfeuchte_prozent": 76,
+      "wind_ms": 3.8,
+      "blattnaesse_prozent": 10,
+      "niederschlag_mm": 0
     }
   ]
 }
