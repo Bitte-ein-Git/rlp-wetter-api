@@ -7,11 +7,11 @@
       "datum": "19.03.2026",
       "zeit": "16:00",
       "temp_2m_C": 17.9,
-      "temp_20cm_C": 20.1,
-      "luftfeuchte_prozent": 26,
-      "wind_ms": 2.6,
+      "temp_20cm_C": 19.8,
+      "niederschlag_mm": 0,
       "blattnaesse_prozent": 5,
-      "niederschlag_mm": 0
+      "luftfeuchte_prozent": 27,
+      "wind_ms": 2.4
     }
   ]
 }
