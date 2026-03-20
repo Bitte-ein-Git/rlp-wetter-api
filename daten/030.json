@@ -9,9 +9,9 @@
       "temp_2m_C": 3.2,
       "temp_20cm_C": 3.7,
       "luftfeuchte_prozent": 81,
-      "wind_ms": null,
+      "wind_ms": 0,
       "blattnaesse_prozent": 21,
-      "niederschlag_mm": null
+      "niederschlag_mm": 0
     }
   ]
 }
