@@ -6,12 +6,12 @@
     {
       "datum": "27.03.2026",
       "zeit": "16:00",
-      "temp_2m_C": 8.1,
-      "temp_20cm_C": 9.4,
-      "luftfeuchte_prozent": 50,
-      "wind_ms": 2.4,
+      "temp_2m_C": 8,
+      "temp_20cm_C": 9.3,
+      "niederschlag_mm": 0,
       "blattnaesse_prozent": 6,
-      "niederschlag_mm": 0
+      "luftfeuchte_prozent": 51,
+      "wind_ms": 1.8
     }
   ]
 }
