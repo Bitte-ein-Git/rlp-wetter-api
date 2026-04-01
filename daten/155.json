@@ -4,14 +4,14 @@
   "station_height": 144,
   "messwerte": [
     {
-      "datum": "01.04.2026",
-      "zeit": "23:40",
+      "datum": "02.04.2026",
+      "zeit": "00:00",
       "temp_2m_C": 1.4,
       "temp_20cm_C": 0,
+      "niederschlag_mm": 0,
+      "blattnaesse_prozent": 84,
       "luftfeuchte_prozent": 82,
-      "wind_ms": 0.2,
-      "blattnaesse_prozent": 92,
-      "niederschlag_mm": 0
+      "wind_ms": 0.7
     }
   ]
 }
