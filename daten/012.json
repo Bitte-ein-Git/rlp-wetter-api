@@ -5,13 +5,13 @@
   "messwerte": [
     {
       "datum": "02.04.2026",
-      "zeit": "18:55",
-      "temp_2m_C": 14.2,
-      "temp_20cm_C": 18.2,
-      "luftfeuchte_prozent": 37,
-      "wind_ms": 0.8,
+      "zeit": "19:00",
+      "temp_2m_C": 14.5,
+      "temp_20cm_C": 19.1,
+      "niederschlag_mm": 0,
       "blattnaesse_prozent": 3,
-      "niederschlag_mm": 0
+      "luftfeuchte_prozent": 39,
+      "wind_ms": 0.8
     }
   ]
 }
